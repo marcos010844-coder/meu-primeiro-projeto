@@ -18,7 +18,7 @@ Progama exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 <br>
 
 <p align="center">
-  <img alt="meuprimeiroprojeto" src=".github/Cover.jpg" width="100%">
+  <img alt="meuprimeiroprojeto" src="./.github/Cover.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -42,6 +42,13 @@ Você pode visualizar o layout do projeto através [DESSE LINK]
 necessário ter conta no [Figma](kttps://figma.com) para acessá-lo.
 
 ## :memo: Licença 
+
+Esse projeto esta sob a licença MIT.
+
+---
+
+Feito com amor by Rocketseat :wave: [Participe da nossa comunidade!]
+(https://discord.g/rocketseat)
 
 Esse projeto esta sob a licença MIT.
 
